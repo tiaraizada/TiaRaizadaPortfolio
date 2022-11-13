@@ -1,2 +1,0 @@
-# TiaRaizadaPortfolio
-Tia Raizada - Portfolio

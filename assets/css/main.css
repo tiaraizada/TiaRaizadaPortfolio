@@ -3352,3 +3352,15 @@ input, select, textarea {
 			}
 
 	}
+
+	.timeline-date {
+		color: black;
+	}
+	.timeline-title {
+		color: darkslategrey;
+	}
+
+	.timeline-text {
+		font-weight: normal;
+		color: darkcyan;
+	}
